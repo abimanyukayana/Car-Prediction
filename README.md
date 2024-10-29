@@ -1,4 +1,4 @@
-# Car Prediction
+# Car Price Prediction
 ## Project Overview 📚
 
 Project ini memiliki tujuan sebagai berikut:
